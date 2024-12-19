@@ -1,4 +1,4 @@
-# Hi there, I'm Bashir AHMAD sabawoon👋
+# Hi there, I'm Bashir sabawoon👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding, learning new technologies, and contributing to open-source projects.
 
