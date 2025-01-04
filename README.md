@@ -1,42 +1,45 @@
-# Hi there, I'm Bashir sabawoon👋
+# Hello, I'm Bashirsaba! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding, learning new technologies, and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in open-source projects and continuous learning. Here's a bit more about me:
 
-## 🌟 About Me ✌️ :
+## 🚀 About Me
 
-- 🔭 I’m currently working on         < <<<~BASHIRSABA~>>>>**project
-- 🌱 I’m currently learning **[Technologies Languages  developing tools and more .... ]**
-- 
-- 👯 I’m looking to collaborate on **[~Open Source Projects or Topics~]**
-- 💬 ***
-- 📫 How to reach me ?  **[~bashir.sabawoon@outlook.com~]**
-
-- ⚡ Fun fact: **
+- 🌱 I’m currently learning new technologies and improving my coding skills.
+- 👯 I’m looking to collaborate on interesting and challenging projects.
+- 💬 Ask me about anything related to web development, Python, or machine learning.
+- 📫 How to reach me: You can reach me via [bashir.sabawoon@outlook.com).
+- ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## 🛠️ Languages and Tools
 
-Here are some of the technologies and tools I work with:
-
-- **Languages:** [ Languages i , use JavaScript, Python, Java ...]
-  
-- **Tools:** [Tools usualy i use, Git, Docker, VS Code]
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks/Libraries:** React, Node.js, Django, Flask
+- **Tools:** Git, Docker, VS Code, Jupyter Notebook
 
 ## 📈 GitHub Stats
 
-![BASHIR SABAWOON'S GITHUB STATUS](https://github-readme-stats.vercel.app/api?username=Bashirsaba&show_icons=true&theme=radical)
+![Bashirsaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bashirsaba&show_icons=true&theme=radical)
 
-## 🚀 Projects  !!!
+## 🏆 GitHub Trophies
 
-Here are some of my notable projects. ! :
-
-- **[ BASHIRSABA ](Link to Project 1 Repository)**: Brief description of what the project does.
-- **[ BASHIRSABA ](Link to Project 2 Repository)**: Brief description of what the project does.
-- **[ BASHIRSABA ](Link to Project 3 Repository)**: Brief description of what the project does.
+![trophy](https://github-profile-trophy.vercel.app/?username=Bashirsaba&theme=onedark)
 
 ## 📫 Connect with Me
 
-- **(https://GITHUB.com/bashirsaba --
+- [LinkedIn](https://www.linkedin.com/in/bashirsaba)
+- [Twitter](https://twitter.com/bashirsaba)
+- [Personal Website](https://bashirsaba.com)
 
-FEEL free to check out my repositories and get in touch if you would like to collaborate on something exciting!
+## 📂 Projects
 
-Thanks for visiting! Have a great day! 😊
+Here are a few projects I’m working on:
+
+- [Project 1](https://github.com/Bashirsaba/project1) - Brief description of project 1.
+- [Project 2](https://github.com/Bashirsaba/project2) - Brief description of project 2.
+- [Project 3](https://github.com/Bashirsaba/project3) - Brief description of project 3.
+
+Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!
+
+---
+
+Thank you for visiting my profile! Have a great day! 😊
