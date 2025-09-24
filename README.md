@@ -66,6 +66,6 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use, 
 For any inquiries, suggestions, or feedback, please reach out:
 
 - GitHub: [Bashirsaba](https://github.com/Bashirsaba)
-- Email: [YourEmail@example.com](mailto:YourEmail@example.com)
+- Email: [bashir.sabawoon@zohomail.eu][bashir.sabawoon@outlook.com]
 
 Thank you for visiting the Bashirsaba repository! We hope you find the projects here valuable and inspiring.
